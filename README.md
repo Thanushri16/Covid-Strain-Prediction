@@ -27,3 +27,20 @@ classification system in its application. Further, the prediction accuracy of th
 traditional algorithms is compared to that of RNN to determine the better algorithm 
 in the classification of COVID-19 strains. Further, the scope of the project can be 
 extended to outbreak prediction. 
+
+To develop a model which could find the severeness in Covid-19 strains based on 
+the reports generated for a particular patient. In this regard, the 
+following are the objectives:
+
+● To develop a module which collects the reports of around 212 patients and 
+performs data pre-processing operations using the NLTK toolkit. 
+
+● To develop a module to classify the data into either of three classes namely 
+SARS, ARDS or COVID using various traditional machine learning 
+approaches. 
+
+● To develop a module that classifies data into either of three classes using 
+recurrent neural networks (RNNs). 
+
+● Do the necessary comparisons on the results obtained and give observations 
+on it.
