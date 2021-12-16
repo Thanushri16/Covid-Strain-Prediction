@@ -1,5 +1,5 @@
 # Covid-Strain-Prediction
-In this research-based paper, the aim is to classify the clinical reports 
+In this project, the aim is to classify the clinical reports 
 obtained using classical and ensemble machine learning models with Grid Search 
 hyperparameter tuning after the chi square feature selection technique to discover the
 underlying presence of the novel coronavirus in an individual and to perform an 
